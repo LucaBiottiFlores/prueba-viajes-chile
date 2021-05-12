@@ -44,11 +44,14 @@ body {
 .iconos {
     padding-left: 15rem;
     color:white;
+   
 }
 
 .iconos i {
     padding-left: 1rem;
+    
 }
+
 
 .texto {
     margin: 0;
@@ -57,4 +60,17 @@ body {
 
 .pie h3{
     font-weight: 700;
+}
+
+
+.colorNav {
+    background-color: white;
+}
+
+.modal-title {
+    color: black;
+}
+
+.modal-body {
+    color:black;
 }
