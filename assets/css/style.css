@@ -6,14 +6,17 @@ body * {
 
 body {
     background-color: #000000;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .card img {
-    max-height: 12rem;
+    max-height: 11rem;
 }
 
 .card {
     min-height: 24rem;
+    width: 90%;
+    margin-left: 0.9rem;
 }
 
 .separador {
@@ -28,4 +31,30 @@ body {
 
 .contacto {
     margin-bottom: 10rem;
+}
+
+.icono {
+    display: inline-block;
+    margin: 0;
+    padding: 1px;
+    padding-bottom: 1.5rem;
+    padding-top: 1rem;
+}
+
+.iconos {
+    padding-left: 15rem;
+    color:white;
+}
+
+.iconos i {
+    padding-left: 1rem;
+}
+
+.texto {
+    margin: 0;
+
+}
+
+.pie h3{
+    font-weight: 700;
 }
